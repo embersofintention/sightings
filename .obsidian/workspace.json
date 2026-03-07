@@ -25,14 +25,12 @@
             "id": "b505027011318ef4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
+                "file": "attachments/zu yaas betch.png"
               },
-              "icon": "lucide-file",
-              "title": "test"
+              "icon": "lucide-image",
+              "title": "zu yaas betch"
             }
           }
         ],
@@ -208,9 +206,10 @@
   },
   "active": "b505027011318ef4",
   "lastOpenFiles": [
-    "attachments/blender_Lh6O9YGxcx.png",
-    "index.md",
     "test.md",
+    "attachments/kobold blender screenshot.png",
+    "attachments/zu yaas betch.png",
+    "index.md",
     "Site Function Notes.md",
     "Process Documenting.md",
     "attachments/tiny lil test image dog.png",
