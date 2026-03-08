@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: fart
+    filters:
+      and:
+        - file.folder == "Art"
+    order:
+      - file.name
+      - tags
+    image: note.image
+    imageFit: contain

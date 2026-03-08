@@ -7,17 +7,20 @@ tags:
   - character
   - character/Rapscallien
   - character/ZuNug
-  - exclude
 tagline: (empty)
-created: <% tp.file.creation_date("YYYY-MM-DD, HH:mm") %>
-created_date: <% tp.file.creation_date("YYYY, MM/DD") %>
-created_time: <% tp.file.creation_date("HH:mm") %>
+created: 2026-03-07, 21:15
+created_date: 2026, 03/07
+created_time: 21:15
+image:
 ---
+
+
 <%*
-await tp.file.rename("art - " + tp.date.now("MMMDD YYYY HH-mm"));
+await tp.file.rename(tp.date.now("MMMDD YYYY HH-mm") + " - Art");
 %>
 
----
+
+# Title
 
 
 
