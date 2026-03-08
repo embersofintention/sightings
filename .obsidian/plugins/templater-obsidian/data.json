@@ -1,13 +1,13 @@
 {
   "command_timeout": 5,
-  "templates_folder": "_templates",
+  "templates_folder": "_excluded/_templates",
   "templates_pairs": [
     [
       "",
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -15,8 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "/",
+      "template": "_excluded/_templates/_ADD DATE AND TAGLINE STUFF.md"
+    },
+    {
+      "folder": "Art",
+      "template": "_excluded/_templates/art gallery entry.md"
     }
   ],
   "enable_file_templates": false,

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/art gallery entry.md",
+                "file": "_excluded/_templates/tag art.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "art gallery entry"
+              "title": "tag art"
             }
           },
           {
@@ -227,16 +227,21 @@
   },
   "active": "12999c9236e82e3c",
   "lastOpenFiles": [
-    "_templates/_ADD DATE AND TAGLINE STUFF.md",
-    "_templates/art gallery entry.md",
+    "_excluded/_templates/_ADD DATE AND TAGLINE STUFF.md",
+    "_excluded/_templates/tag art.md",
+    "_excluded/_templates/_Add Tags Prompt.md",
+    "_excluded/Dashboard.md",
+    "_excluded/_templates/art gallery entry.md",
+    "Art/doodle - ralien dweeb.md",
+    "WhimsyScoundrels",
+    "_excluded",
     "_templates/_add Created Time and Date.md",
     "index.md",
     "test gallery base.base",
-    "test gallery/doodle - ralien dweeb.md",
     "Tags",
-    "_templates",
+    "_excluded/_templates",
     "attachments/Sticker Doodles - Ralien 01 sm.png",
-    "test gallery",
+    "Art",
     "test.md",
     "attachments/zu aaa.png",
     "attachments/zu yaas betch.png",

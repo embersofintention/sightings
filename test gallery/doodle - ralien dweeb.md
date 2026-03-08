@@ -1,1 +1,0 @@
-![[Sticker Doodles - Ralien 01 sm.png]]

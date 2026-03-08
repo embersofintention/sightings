@@ -98,14 +98,142 @@
     "expandedKeys": []
   },
   "_templates/art gallery entry.md": {
-    "scroll": 2.0604395604395602,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 22,
+        "line": 17,
+        "ch": 2
+      },
+      "to": {
+        "line": 17,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "_excluded/_templates/art gallery entry.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 2
+      },
+      "to": {
+        "line": 17,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "_excluded/_templates/_ADD DATE AND TAGLINE STUFF.md": {
+    "scroll": 2.022222222222222,
+    "cursor": {
+      "from": {
+        "line": 17,
         "ch": 0
       },
       "to": {
-        "line": 22,
+        "line": 17,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "doodle - ralien dweeb.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 2
+      },
+      "to": {
+        "line": 17,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "_excluded/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 2
+      },
+      "to": {
+        "line": 17,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "_excluded/subject - Mar07 2026 21-46.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_excluded/Dashboard.md": {
+    "scroll": 6.237730061349693,
+    "cursor": {
+      "from": {
+        "line": 32,
+        "ch": 0
+      },
+      "to": {
+        "line": 32,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-1"
+    ]
+  },
+  "_excluded/_templates/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_excluded/_templates/_Add Tags Prompt.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 35,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 9
+      }
+    },
+    "expandedKeys": []
+  },
+  "_excluded/_templates/tag art.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
         "ch": 0
       }
     },
