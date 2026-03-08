@@ -1,0 +1,114 @@
+{
+  "index.md": {
+    "scroll": 0.4672897196261682,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 0
+      },
+      "to": {
+        "line": 16,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/add Created Time and Date.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/_add Created Time and Date.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/_ADD DATE AND TAGLINE STUFF.md": {
+    "scroll": 2.022222222222222,
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 0
+      },
+      "to": {
+        "line": 36,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/_ADD DATE AND TAGLINE STUFF1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/art gallery template.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/art gallery entry.md": {
+    "scroll": 2.0604395604395602,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 0
+      },
+      "to": {
+        "line": 22,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  }
+}

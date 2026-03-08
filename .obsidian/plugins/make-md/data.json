@@ -38,7 +38,9 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//_templates",
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
