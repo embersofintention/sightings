@@ -1,0 +1,5 @@
+# Ignore "_excluded" folder
+_excluded
+
+# Ignore "_templates" folder
+_templates
