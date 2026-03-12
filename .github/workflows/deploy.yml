@@ -37,7 +37,8 @@ jobs:
             --input "." \
             --output "./public" \
             --url "https://embersofintention.github.io/sightings" \
-            --name "Whimsy Scoundrel Sightings" 
+            --name "Whimsy Scoundrel Sightings" \
+            --disable-local-graph
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
