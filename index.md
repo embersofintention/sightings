@@ -12,8 +12,8 @@ testing stuff is in fact sexy and cool
 ##  Test Base View (hopefully it renders as a gallery??)
 
 ---
+[[GalleryWIP.base|Link]] to test gallery base
 
-![[GalleryWIP.base]]
 
 
 
