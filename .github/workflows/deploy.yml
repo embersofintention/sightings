@@ -33,12 +33,7 @@ jobs:
           chmod +x kiln          
 
       - name: Build Site
-        run: ./kiln generate \ 
-            --input "." \
-            --output "./public" \
-            --url "https://embersofintention.github.io/sightings" \
-            --name "Whimsy Scoundrel Sightings" \
-            --disable-local-graph
+        run: ./kiln generate --input "." --output "./public" --url "https://embersofintention.github.io/sightings"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
