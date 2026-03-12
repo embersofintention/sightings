@@ -1,17 +1,19 @@
 {
   "index.md": {
-    "scroll": 0.9345794392523364,
+    "scroll": 3.7745222929936304,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 0
+        "line": 23,
+        "ch": 18
       },
       "to": {
-        "line": 18,
-        "ch": 0
+        "line": 23,
+        "ch": 18
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   },
   "_templates/Untitled.md": {
     "scroll": 0,

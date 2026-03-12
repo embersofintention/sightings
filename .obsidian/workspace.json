@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,14 +255,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7268f681f67160e",
+  "active": "b505027011318ef4",
   "lastOpenFiles": [
+    "GalleryWIP.base",
     "New Text Document.txt",
     "_templates/add Art Entry.md",
     "_templates/subject - Mar07 2026 22-42.md",
     "_excluded/_Dashboard.md",
     "index.md",
-    "GalleryWIP.base",
     "Art/zu yaaas betch.md",
     "test.md",
     "_templates/tag BLARG.md",

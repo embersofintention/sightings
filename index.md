@@ -9,18 +9,21 @@ testing stuff is in fact sexy and cool
 [[test]] link
 
 
+##  Test Base View (hopefully it renders as a gallery??)
+
 ---
 
 ![[GalleryWIP.base]]
 
 
 
-EGADS
 
 
 
+
+## A Picture Of Zu
 ![[zu aaa.png]]
-
+You're welcome lol
 
 
 
