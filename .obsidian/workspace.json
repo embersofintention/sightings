@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_excluded/_Dashboard.md",
+                "file": "_templates/add Art Entry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Dashboard"
+              "title": "add Art Entry"
             }
           },
           {
@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             }
           },
           {
-            "id": "3b1f52643f13d08e",
+            "id": "c7268f681f67160e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -126,7 +126,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -254,13 +255,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b505027011318ef4",
+  "active": "c7268f681f67160e",
   "lastOpenFiles": [
+    "New Text Document.txt",
+    "_templates/add Art Entry.md",
+    "_templates/subject - Mar07 2026 22-42.md",
+    "_excluded/_Dashboard.md",
+    "index.md",
     "GalleryWIP.base",
     "Art/zu yaaas betch.md",
-    "index.md",
-    "_templates/add Art Entry.md",
-    "_excluded/_Dashboard.md",
     "test.md",
     "_templates/tag BLARG.md",
     "Art/art - Mar07 2026 23-16.md",
@@ -271,7 +274,6 @@
     "_excluded/_templates/tag Art.md",
     "_templates/_ADD DATE AND TAGLINE STUFF.md",
     "_templates/_user scripts",
-    "_templates/subject - Mar07 2026 22-42.md",
     "_templates",
     "_excluded/_templates/tag.md",
     "_excluded/_templates/tag art.md",

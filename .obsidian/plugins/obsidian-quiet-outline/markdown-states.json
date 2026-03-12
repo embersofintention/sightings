@@ -394,14 +394,14 @@
     "expandedKeys": []
   },
   "_templates/add Art Entry.md": {
-    "scroll": 7.230769230769231,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 15,
+        "line": 27,
         "ch": 0
       },
       "to": {
-        "line": 15,
+        "line": 27,
         "ch": 0
       }
     },
@@ -486,6 +486,20 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/subject - Mar07 2026 22-42.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
         "ch": 0
       }
     },
