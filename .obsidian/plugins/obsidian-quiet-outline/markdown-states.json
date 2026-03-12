@@ -469,12 +469,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 22
+        "line": 14,
+        "ch": 0
       },
       "to": {
-        "line": 12,
-        "ch": 22
+        "line": 14,
+        "ch": 0
       }
     },
     "expandedKeys": []

@@ -11,13 +11,17 @@
             "id": "e3cfe91fb3043c53",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "canvas",
               "state": {
-                "file": "GalleryWIP.base",
-                "viewName": "fart"
+                "file": "Test Canvas.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": -120,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "GalleryWIP"
+              "icon": "lucide-layout-dashboard",
+              "title": "Test Canvas"
             }
           },
           {
@@ -48,8 +52,7 @@
               "title": "add Art Entry"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +115,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,9 +243,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b505027011318ef4",
+  "active": "e3cfe91fb3043c53",
   "lastOpenFiles": [
+    "test.md",
+    "Test Canvas.canvas",
     "GalleryWIP.base",
+    "Art/zu yaaas betch.md",
     "index.md",
     "_excluded/_Dashboard.md",
     "_excluded",
@@ -254,8 +259,6 @@
     "_templates",
     "New Text Document.txt",
     "_templates/subject - Mar07 2026 22-42.md",
-    "Art/zu yaaas betch.md",
-    "test.md",
     "_templates/tag BLARG.md",
     "Art/art - Mar07 2026 23-16.md",
     "Art/art - Mar07 2026 23-09.md",

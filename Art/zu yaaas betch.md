@@ -13,7 +13,9 @@ image: "[[zu yaas betch.png]]"
 ![[zu yaas betch.png]]
 
 
-# Title
+# Description:
+yaaas betch
+..that's it, that's the description. 
 
 
 
@@ -29,12 +31,3 @@ image: "[[zu yaas betch.png]]"
 
 
 
-
----
-**Edit Basic Template:**
-```button
-name ➕ Edit Template
-type link
-action obsidian://open?vault=sightings&file=_templates%2Fart%20gallery%20entry
-```
----
