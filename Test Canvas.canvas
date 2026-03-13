@@ -1,6 +1,18 @@
 {
 	"nodes":[
-		{"id":"6a58e8af55526eac","x":-220,"y":-320,"width":400,"height":400,"type":"file","file":"Art/zu yaaas betch.md"}
+		{"id":"6a58e8af55526eac","type":"file","file":"Art/zu yaaas betch.md","x":-540,"y":-340,"width":400,"height":300},
+		{"id":"d8c1cce3adb29e29","x":20,"y":-340,"width":400,"height":300,"type":"file","file":"GalleryWIP.base"},
+		{"id":"20d9f43ab3559da5","x":-200,"y":-520,"width":250,"height":60,"type":"text","text":"# Testing Displays"},
+		{"id":"b4e3f0554523de24","x":95,"y":-20,"width":250,"height":200,"type":"text","text":"## Base results (Kiln)\nKiln doesn't render this at all."},
+		{"id":"e744409d5418d448","x":-435,"y":-20,"width":190,"height":200,"type":"text","text":"## Note Results (Kiln)\n* displays page\n* displays image\n* does not display base view"},
+		{"id":"1bb45eee941715a5","x":-179,"y":100,"width":250,"height":220,"type":"text","text":"Takeaways: \n* Bases\n\t* Kiln won't generate them embedding in anything\n* "}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"8dcf93ce9b18c9aa","fromNode":"20d9f43ab3559da5","fromSide":"bottom","toNode":"6a58e8af55526eac","toSide":"top"},
+		{"id":"3b005d9fb962ac50","fromNode":"20d9f43ab3559da5","fromSide":"bottom","toNode":"d8c1cce3adb29e29","toSide":"top"},
+		{"id":"2a911afb806746bd","fromNode":"d8c1cce3adb29e29","fromSide":"bottom","toNode":"b4e3f0554523de24","toSide":"top"},
+		{"id":"b08040f75eb6d3ba","fromNode":"6a58e8af55526eac","fromSide":"bottom","toNode":"e744409d5418d448","toSide":"top"},
+		{"id":"15ba73d7478b6453","fromNode":"e744409d5418d448","fromSide":"bottom","toNode":"1bb45eee941715a5","toSide":"left"},
+		{"id":"21d9df7dfb2e9803","fromNode":"b4e3f0554523de24","fromSide":"bottom","toNode":"1bb45eee941715a5","toSide":"right"}
+	]
 }

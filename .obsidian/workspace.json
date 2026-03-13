@@ -15,9 +15,9 @@
               "state": {
                 "file": "Test Canvas.canvas",
                 "viewState": {
-                  "x": -20,
-                  "y": -120,
-                  "zoom": 0
+                  "x": -18.722210602943505,
+                  "y": -29.89881574842306,
+                  "zoom": -0.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -51,8 +51,22 @@
               "icon": "lucide-file",
               "title": "add Art Entry"
             }
+          },
+          {
+            "id": "4ac4c37249ed7782",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "GalleryWIP.base",
+                "viewName": "cards w images"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "GalleryWIP"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,21 +257,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3cfe91fb3043c53",
+  "active": "4ac4c37249ed7782",
   "lastOpenFiles": [
-    "test.md",
     "Test Canvas.canvas",
-    "GalleryWIP.base",
+    "public/robots.txt",
+    "public/sitemap.xml",
+    "public/graph.html",
+    "public/graph.json",
+    "public/Inter-Bold.woff2",
+    "public/Inter-Regular.woff2",
+    "public/giscus-theme-dark.css",
+    "public/giscus-theme-light.css",
+    "public/canvas.js",
+    "public/graph.js",
     "Art/zu yaaas betch.md",
+    "public/attachments/zu-yaas-betch.png",
+    "public/attachments/zu-aaa.png",
+    "public/attachments/tiny-lil-test-image-dog.png",
+    "public/attachments/ralien-sticker-weirdface.png",
+    "public/attachments/nug-angst-sticker.png",
+    "public/attachments/inq-keyboard-slap.gif",
+    "public/attachments/sticker-doodles---ralien-01-sm.png",
+    "public/attachments/nuggst.png",
+    "test.md",
     "index.md",
     "_excluded/_Dashboard.md",
-    "_excluded",
-    "_templates/_user scripts",
     "_templates/_ADD DATE AND TAGLINE STUFF.md",
     "_templates/tag.md",
     "_templates/add Art Entry.md",
-    "_templates",
-    "New Text Document.txt",
     "_templates/subject - Mar07 2026 22-42.md",
     "_templates/tag BLARG.md",
     "Art/art - Mar07 2026 23-16.md",
@@ -268,12 +295,7 @@
     "_excluded/_templates/tag.md",
     "_excluded/_templates/tag art.md",
     "_excluded/_templates/tag BLARG.md",
-    "_excluded/_templates/_user scripts/tag_Art.js",
     "art - Mar07 2026 22-33.md",
-    "_excluded/_templates/_user scripts/add tag Art.js",
-    "_excluded/_templates/_user scripts/add tag Art.txt",
-    "_excluded/_templates/_user scripts/New Text Document.txt",
-    "_excluded/_templates/_user scripts",
     "_excluded/_templates/_ADD DATE AND TAGLINE STUFF.md",
     "_excluded/_templates/_Add Tags Prompt.md",
     "_excluded/_templates/art gallery entry.md",
@@ -281,10 +303,7 @@
     "_templates/_add Created Time and Date.md",
     "attachments/Sticker Doodles - Ralien 01 sm.png",
     "attachments/zu aaa.png",
-    "attachments/zu yaas betch.png",
-    "attachments/kobold blender screenshot.png",
     "Site Function Notes.md",
-    "Process Documenting.md",
-    "attachments/tiny lil test image dog.png"
+    "Process Documenting.md"
   ]
 }

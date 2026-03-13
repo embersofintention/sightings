@@ -1,6 +1,6 @@
 views:
   - type: cards
-    name: fart
+    name: cards w images
     filters:
       and:
         - file.folder == "Art"
