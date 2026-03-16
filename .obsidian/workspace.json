@@ -16,7 +16,7 @@
                 "file": "Test Canvas.canvas",
                 "viewState": {
                   "x": 0.17660514547958428,
-                  "y": -92.89486824316671,
+                  "y": -210.06752588338992,
                   "zoom": -0.3333333333333333
                 }
               },
@@ -65,8 +65,7 @@
               "title": "GalleryWIP"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             }
           },
           {
-            "id": "c7268f681f67160e",
+            "id": "0f81d756c90d0bbe",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -129,7 +128,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -257,10 +257,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ac4c37249ed7782",
+  "active": "e3cfe91fb3043c53",
   "lastOpenFiles": [
-    "Test Canvas.canvas",
     "GalleryWIP.base",
+    "Test Canvas.canvas",
     "public/robots.txt",
     "public/sitemap.xml",
     "public/graph.html",
