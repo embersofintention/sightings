@@ -30,7 +30,7 @@ jobs:
             --input "./" \ 
             --output "./public" \
             --url "https://whimsyscoundrel.neocities.org" \
-            --name "Whimsy Scoundrel: The Art of LvK" \
+            --name "Whimsy Scoundrel" \
             --font "lato"
 
       - name: Deploy to Neocities
