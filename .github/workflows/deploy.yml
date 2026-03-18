@@ -40,4 +40,4 @@ jobs:
           # Name: NEOCITIES_API_TOKEN   Value: your Neocities API key
           api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
           dist_dir: public
-          cleanup: true
+          cleanup: false
