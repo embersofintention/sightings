@@ -11,17 +11,14 @@
             "id": "e3cfe91fb3043c53",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Test Canvas.canvas",
-                "viewState": {
-                  "x": 0.17660514547958428,
-                  "y": -92.89486824316673,
-                  "zoom": -0.3333333333333333
-                }
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Test Canvas"
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -259,8 +256,8 @@
   },
   "active": "e3cfe91fb3043c53",
   "lastOpenFiles": [
-    "GalleryWIP.base",
     "Test Canvas.canvas",
+    "GalleryWIP.base",
     "public/robots.txt",
     "public/sitemap.xml",
     "public/graph.html",
