@@ -1,28 +1,21 @@
-name: Deploy to GitHub Pages
+name: Deploy to Neocities
 
 on:
   push:
     branches: ["main"]
   workflow_dispatch:
 
+# Neocities does not need the special GitHub Pages permissions
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
 
       - name: Setup Kiln
         run: |
@@ -30,23 +23,16 @@ jobs:
           curl -L -o kiln https://github.com/otaleghani/kiln/releases/latest/download/kiln_linux_amd64
 
           # Make it executable
-          chmod +x kiln          
+          chmod +x kiln
 
       - name: Build Site
-        run: ./kiln generate --input "./" --output "./public" --url "https://embersofintention.github.io/sightings"
+        run: ./kiln generate --input "./" --output "./public" --url "https://whimsyscoundrel.neocities.org"
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy to Neocities
+        uses: bcomnes/deploy-to-neocities@v1
         with:
-          path: ./public
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          # Add this secret in: Settings → Secrets and variables → Actions
+          # Name: NEOCITIES_API_TOKEN   Value: your Neocities API key
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          dist_dir: public
+          cleanup: true
