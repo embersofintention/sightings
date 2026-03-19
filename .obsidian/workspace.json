@@ -48,19 +48,6 @@
               "icon": "lucide-file",
               "title": "add Art Entry"
             }
-          },
-          {
-            "id": "4ac4c37249ed7782",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "GalleryWIP.base",
-                "viewName": "cards w images"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "GalleryWIP"
-            }
           }
         ]
       }
@@ -253,10 +240,55 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fad7ec22033eecda",
+  "active": "e3cfe91fb3043c53",
   "lastOpenFiles": [
+    "ThemeCrap/shared.css",
+    "ThemeCrap/style.css",
+    "ThemeCrap/graph.js",
+    "ThemeCrap/app.js",
+    "ThemeCrap",
+    "test.md",
+    "Test Canvas.canvas",
+    "index.md",
+    "GalleryWIP.base",
+    "vault/test.md",
+    "vault/Test Canvas.canvas",
+    "vault/index.md",
+    "vault/GalleryWIP.base",
+    "_templates/add Art Entry.md",
     "vault/favicon.ico",
     "vault",
-    "New folder"
+    "New folder",
+    "favicon.ico",
+    "public/attachments/zu-yaas-betch.png",
+    "public/attachments/zu-aaa.png",
+    "public/attachments/tiny-lil-test-image-dog.png",
+    "public/attachments/ralien-sticker-weirdface.png",
+    "public/attachments/nug-angst-sticker.png",
+    "public/attachments/inq-keyboard-slap.gif",
+    "public/attachments/sticker-doodles---ralien-01-sm.png",
+    "public/attachments/nuggst.png",
+    "_templates/add Whimsy Scoundrel.md",
+    "Art/zu yaaas betch.md",
+    "_excluded/_Dashboard.md",
+    "_templates/_ADD DATE AND TAGLINE STUFF.md",
+    "_templates/tag.md",
+    "_templates/subject - Mar07 2026 22-42.md",
+    "_templates/tag BLARG.md",
+    "Art/art - Mar07 2026 23-16.md",
+    "Art/art - Mar07 2026 23-09.md",
+    "Art/art - Mar07 2026 23-04.md",
+    "_templates/tag Art.md",
+    "_excluded/_templates/tag Art.md",
+    "_excluded/_templates/tag.md",
+    "_excluded/_templates/tag art.md",
+    "_excluded/_templates/tag BLARG.md",
+    "art - Mar07 2026 22-33.md",
+    "_excluded/_templates/_ADD DATE AND TAGLINE STUFF.md",
+    "_excluded/_templates/_Add Tags Prompt.md",
+    "_excluded/_templates/art gallery entry.md",
+    "Art/doodle - ralien dweeb.md",
+    "attachments/Sticker Doodles - Ralien 01 sm.png",
+    "attachments/zu aaa.png"
   ]
 }

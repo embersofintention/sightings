@@ -30,7 +30,8 @@ jobs:
             --input "./" \ 
             --output "./public" \
             --url "https://whimsyscoundrel.neocities.org" \
-            --name "Whimsy Scoundrel" 
+            --name "Whimsy Scoundrel" \
+            --theme "cyberdream"
 
       - name: Deploy to Neocities
         uses: bcomnes/deploy-to-neocities@v1
