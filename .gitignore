@@ -8,5 +8,5 @@ _templates
 public/
 
 # Ignore various plugins
-.makemd
-.trash
+.makemd/
+.trash/
