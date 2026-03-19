@@ -1,0 +1,33 @@
+name: Weekly Neocities Cleanup
+
+on:
+  schedule:
+    # Every Sunday at 03:00 UTC (adjust as you like)
+    - cron: '0 3 * * 0'
+  workflow_dispatch:  # optional: let you run it manually too
+
+permissions:
+  contents: read
+
+jobs:
+  weekly-cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Kiln
+        run: |
+          curl -L -o kiln https://github.com/otaleghani/kiln/releases/latest/download/kiln_linux_amd64
+          chmod +x kiln
+
+      - name: Build Site
+        run: ./kiln generate --input "./" --output "./public" --url "https://embersofintention.neocities.org"
+
+      - name: Deploy to Neocities with cleanup
+        uses: bcomnes/deploy-to-neocities@v1
+        with:
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          dist_dir: public
+          cleanup: true
