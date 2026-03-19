@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: .\https:\whimsyscoundrel.neocities.org\sitemap.xml
