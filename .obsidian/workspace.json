@@ -253,8 +253,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14d22864a011c831",
+  "active": "fad7ec22033eecda",
   "lastOpenFiles": [
+    "favicon.ico",
     "public/robots.txt",
     "public/sitemap.xml",
     "public/graph.html",
@@ -265,7 +266,6 @@
     "public/giscus-theme-light.css",
     "public/canvas.js",
     "public/graph.js",
-    "public/app.js",
     "public/attachments/zu-yaas-betch.png",
     "public/attachments/zu-aaa.png",
     "public/attachments/tiny-lil-test-image-dog.png",
