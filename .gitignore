@@ -4,6 +4,9 @@ _excluded
 # Ignore "_templates" folder
 _templates
 
+#Ignore "public" folder
+public/
+
 # Ignore various plugins
 .makemd
 .trash
