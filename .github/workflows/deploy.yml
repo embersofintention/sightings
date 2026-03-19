@@ -26,12 +26,11 @@ jobs:
           chmod +x kiln
 
       - name: Build Site
-        run: |
-            ./kiln generate \ 
-                --input "./" \ 
-                --output "./public" \
-                --url "https://whimsyscoundrel.neocities.org" \
-                --name "Whimsy Scoundrel" 
+        run: ./kiln generate \ 
+            --input "./" \ 
+            --output "./public" \
+            --url "https://whimsyscoundrel.neocities.org" \
+            --name "Whimsy Scoundrel" 
 
       - name: Deploy to Neocities
         uses: bcomnes/deploy-to-neocities@v1
