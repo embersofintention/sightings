@@ -39,4 +39,5 @@ jobs:
           # Name: NEOCITIES_API_TOKEN   Value: your Neocities API key
           api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
           dist_dir: public
-          cleanup: false
+          cleanup: true
+# Note:  make cleanup false to leave old files put and rely on other action in repo to clean it once a week

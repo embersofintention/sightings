@@ -253,13 +253,8 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3cfe91fb3043c53",
+  "active": "14d22864a011c831",
   "lastOpenFiles": [
-    "_templates/add Whimsy Scoundrel.md",
-    "_templates/add Art Entry.md",
-    "index.md",
-    "Test Canvas.canvas",
-    "GalleryWIP.base",
     "public/robots.txt",
     "public/sitemap.xml",
     "public/graph.html",
@@ -269,7 +264,8 @@
     "public/giscus-theme-dark.css",
     "public/giscus-theme-light.css",
     "public/canvas.js",
-    "Art/zu yaaas betch.md",
+    "public/graph.js",
+    "public/app.js",
     "public/attachments/zu-yaas-betch.png",
     "public/attachments/zu-aaa.png",
     "public/attachments/tiny-lil-test-image-dog.png",
@@ -278,6 +274,11 @@
     "public/attachments/inq-keyboard-slap.gif",
     "public/attachments/sticker-doodles---ralien-01-sm.png",
     "public/attachments/nuggst.png",
+    "_templates/add Whimsy Scoundrel.md",
+    "_templates/add Art Entry.md",
+    "index.md",
+    "Test Canvas.canvas",
+    "Art/zu yaaas betch.md",
     "test.md",
     "_excluded/_Dashboard.md",
     "_templates/_ADD DATE AND TAGLINE STUFF.md",
@@ -300,7 +301,6 @@
     "_templates/_add Created Time and Date.md",
     "attachments/Sticker Doodles - Ralien 01 sm.png",
     "attachments/zu aaa.png",
-    "Site Function Notes.md",
-    "Process Documenting.md"
+    "Site Function Notes.md"
   ]
 }
