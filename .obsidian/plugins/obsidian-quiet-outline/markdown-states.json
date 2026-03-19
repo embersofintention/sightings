@@ -396,14 +396,14 @@
     "expandedKeys": []
   },
   "_templates/add Art Entry.md": {
-    "scroll": 0,
+    "scroll": 7.52823086574655,
     "cursor": {
       "from": {
-        "line": 27,
+        "line": 25,
         "ch": 0
       },
       "to": {
-        "line": 27,
+        "line": 25,
         "ch": 0
       }
     },
@@ -502,6 +502,34 @@
       },
       "to": {
         "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/add Art Entry 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/add Whimsy Scoundrel.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
         "ch": 0
       }
     },

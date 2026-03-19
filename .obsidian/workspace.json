@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_templates/add Art Entry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "add Art Entry"
             }
           },
           {
@@ -253,8 +253,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fad7ec22033eecda",
+  "active": "e3cfe91fb3043c53",
   "lastOpenFiles": [
+    "_templates/add Whimsy Scoundrel.md",
+    "_templates/add Art Entry.md",
+    "index.md",
     "Test Canvas.canvas",
     "GalleryWIP.base",
     "public/robots.txt",
@@ -276,11 +279,9 @@
     "public/attachments/sticker-doodles---ralien-01-sm.png",
     "public/attachments/nuggst.png",
     "test.md",
-    "index.md",
     "_excluded/_Dashboard.md",
     "_templates/_ADD DATE AND TAGLINE STUFF.md",
     "_templates/tag.md",
-    "_templates/add Art Entry.md",
     "_templates/subject - Mar07 2026 22-42.md",
     "_templates/tag BLARG.md",
     "Art/art - Mar07 2026 23-16.md",
