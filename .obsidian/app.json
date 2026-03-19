@@ -2,5 +2,6 @@
   "attachmentFolderPath": "attachments",
   "alwaysUpdateLinks": true,
   "autoPairBrackets": false,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "showUnsupportedFiles": true
 }
