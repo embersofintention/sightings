@@ -3,3 +3,7 @@ _excluded
 
 # Ignore "_templates" folder
 _templates
+
+# Ignore various plugins
+.makemd
+.trash
