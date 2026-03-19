@@ -125,8 +125,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -254,7 +253,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3cfe91fb3043c53",
+  "active": "fad7ec22033eecda",
   "lastOpenFiles": [
     "Test Canvas.canvas",
     "GalleryWIP.base",
