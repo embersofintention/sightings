@@ -28,8 +28,8 @@ jobs:
       - name: Build Site
         run: |
           mkdir -p ./public
-          ./kiln generate \ 
-            --input "./WhimsySightings" \ 
+          ./kiln generate \
+            --input "./WhimsySightings" \
             --output "./public" \
             --url "https://whimsyscoundrel.neocities.org" \
             --name "Whimsy Scoundrel" \
@@ -43,5 +43,5 @@ jobs:
           api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
           dist_dir: public
           cleanup: true
-# Note:  make cleanup false to leave old files put and rely on other action in repo to clean it once a week
-# making it true seems to make neocities angry
+          # Note: make cleanup false to leave old files put and rely on other action in repo to clean it once a week
+          # making it true seems to make neocities angry
