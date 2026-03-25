@@ -27,7 +27,7 @@ jobs:
 
       - name: Build Site
         run: ./kiln generate \ 
-            --input "./" \ 
+            --input "./WhimsySightings" \ 
             --output "./public" \
             --url "https://whimsyscoundrel.neocities.org" \
             --name "Whimsy Scoundrel" \
