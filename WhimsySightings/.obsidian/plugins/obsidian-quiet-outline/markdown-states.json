@@ -536,17 +536,19 @@
     "expandedKeys": []
   },
   "Art/Mar25 2026 20-35 - Art.md": {
-    "scroll": 13.441726618705037,
+    "scroll": 4.160887656033287,
     "cursor": {
       "from": {
-        "line": 33,
+        "line": 26,
         "ch": 0
       },
       "to": {
-        "line": 33,
+        "line": 26,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   }
 }
