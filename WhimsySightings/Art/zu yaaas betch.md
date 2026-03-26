@@ -19,14 +19,6 @@ yaaas betch
 
 
 
-# Embedded Base View
-
-![[GalleryWIP.base]]
-
-
-
-
-
 
 
 
