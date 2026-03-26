@@ -39,7 +39,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Art"
+    "//Art",
+    "//attachments",
+    "//_templates"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

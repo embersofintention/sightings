@@ -1,11 +1,15 @@
 views:
   - type: cards
-    name: cards w images
+    name: Pretty
     filters:
       and:
         - file.folder == "Art"
     order:
       - file.name
       - tags
+      - tagline
+      - file.embeds
+      - imagePath
     image: note.image
     imageFit: contain
+    imageAspectRatio: 1.5

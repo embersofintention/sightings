@@ -7,6 +7,8 @@ created_time: 21:15
 ---
 
 # Test Gallery made using Dataview
+3/25/26 - Notes:
+* Kiln does not seem to render dataview tables apparently, haha
 
 ---
 

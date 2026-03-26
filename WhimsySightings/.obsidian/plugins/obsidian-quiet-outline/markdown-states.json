@@ -1,14 +1,14 @@
 {
   "index.md": {
-    "scroll": 0,
+    "scroll": 34.31830357142857,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 6
+        "line": 43,
+        "ch": 0
       },
       "to": {
-        "line": 6,
-        "ch": 6
+        "line": 43,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -466,15 +466,15 @@
     "expandedKeys": []
   },
   "Art/zu yaaas betch.md": {
-    "scroll": 4.160887656033287,
+    "scroll": 3.566666497124566,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 6
+        "line": 11,
+        "ch": 0
       },
       "to": {
-        "line": 12,
-        "ch": 6
+        "line": 11,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -536,18 +536,20 @@
     "expandedKeys": []
   },
   "Art/Mar25 2026 20-35 - Art.md": {
-    "scroll": 9.625520110957003,
+    "scroll": 2.319898520736791,
     "cursor": {
       "from": {
-        "line": 13,
-        "ch": 6
+        "line": 12,
+        "ch": 0
       },
       "to": {
-        "line": 13,
-        "ch": 6
+        "line": 12,
+        "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   },
   "Untitled.md": {
     "scroll": 0,
@@ -564,14 +566,14 @@
     "expandedKeys": []
   },
   "Test Dataview Gallery.md": {
-    "scroll": 10.5390625,
+    "scroll": 3.8865030674846626,
     "cursor": {
       "from": {
-        "line": 36,
-        "ch": 0
+        "line": 12,
+        "ch": 3
       },
       "to": {
-        "line": 36,
+        "line": 12,
         "ch": 0
       }
     },

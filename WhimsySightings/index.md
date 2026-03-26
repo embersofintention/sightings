@@ -2,7 +2,7 @@
 # (Currently: Testing a Dataview gallery)
 ^ 3/25/26, 8:48pm
 
-[[Test Dataview Gallery]]
+
 
 # Hi!!
 Ok so this isn't pretty YET, I get that.  It looks bland and generic and boring. 
@@ -36,6 +36,8 @@ So please just tolerate how ugly and empty it is for now ahahha
 You're welcome lol
 
 
-
+# Test Links: 
+* [[Test Dataview Gallery]] 
+* [[Test Base.base]]
 
 :D
