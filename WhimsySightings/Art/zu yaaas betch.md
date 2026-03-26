@@ -10,7 +10,7 @@ image: "[[zu yaas betch.png]]"
 ---
 
 
-![[zu yaas betch.png]]
+img:: ![[zu yaas betch.png]]
 
 
 # Description:

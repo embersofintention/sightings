@@ -1,6 +1,8 @@
 
-# WHY DOES THIS KEEP BREAKING fffff
-^ 3/19/26, 3:38pm
+# (Currently: Testing a Dataview gallery)
+^ 3/25/26, 8:48pm
+
+[[Test Dataview Gallery]]
 
 # Hi!!
 Ok so this isn't pretty YET, I get that.  It looks bland and generic and boring. 
@@ -24,6 +26,7 @@ So please just tolerate how ugly and empty it is for now ahahha
 * a neato gallery of Whimsy Scoundrels! 
 * ...and LvK's other art too 
 * A way to reach out and say hi if you find a Whimsy Scoundrel in the wild
+
 
 
 
