@@ -10,6 +10,7 @@ views:
       - tagline
       - file.embeds
       - imagePath
+      - created_date
     image: note.image
     imageFit: contain
     imageAspectRatio: 1.5

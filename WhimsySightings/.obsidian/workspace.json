@@ -53,14 +53,13 @@
             "id": "9b3dd18458b54d21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Art/Mar25 2026 20-35 - Art.md",
-                "mode": "source",
-                "source": false
+                "file": "Test Base.base",
+                "viewName": "Pretty"
               },
-              "icon": "lucide-file",
-              "title": "Mar25 2026 20-35 - Art"
+              "icon": "lucide-layout-grid",
+              "title": "Test Base"
             }
           }
         ],
@@ -258,12 +257,12 @@
   },
   "active": "9b3dd18458b54d21",
   "lastOpenFiles": [
+    "Art/Mar25 2026 20-35 - WS Zu.md",
     "Test Base.base",
-    "Art/Mar25 2026 20-35 - Art.md",
+    "attachments/WS_HoneyZu.png",
     "Art/zu yaaas betch.md",
     "test.md",
     "index.md",
-    "attachments/WS_HoneyZu.png",
     "Test Dataview Gallery.md",
     "_templates/add Art Entry.md",
     "_excluded/_Dashboard.md",

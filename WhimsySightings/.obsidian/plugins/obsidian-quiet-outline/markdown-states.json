@@ -536,15 +536,15 @@
     "expandedKeys": []
   },
   "Art/Mar25 2026 20-35 - Art.md": {
-    "scroll": 14.435530085959886,
+    "scroll": 12.125,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 0
+        "line": 14,
+        "ch": 25
       },
       "to": {
-        "line": 12,
-        "ch": 0
+        "line": 14,
+        "ch": 25
       }
     },
     "expandedKeys": [
@@ -578,5 +578,21 @@
       }
     },
     "expandedKeys": []
+  },
+  "Art/Mar25 2026 20-35 - WS Zu.md": {
+    "scroll": 14.537396121883656,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 25
+      },
+      "to": {
+        "line": 14,
+        "ch": 25
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
   }
 }
