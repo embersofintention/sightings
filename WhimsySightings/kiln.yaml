@@ -3,7 +3,6 @@
 # CLI flags will override these values.
 
 theme: cyberdream
-# font: inter
 url: "https://whimsyscoundrel.neocities.org"
 name: "Whimsy Scoundrels"
 input: ./WhimsySightings
@@ -14,3 +13,4 @@ layout: default
 # disable-toc: false
 # disable-local-graph: false
 # disable-backlinks: false
+# font: inter
