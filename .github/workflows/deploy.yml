@@ -28,13 +28,8 @@ jobs:
       - name: Build Site
         run: |
           mkdir -p ./public
-          ./kiln generate \
-            --input "./WhimsySightings" \
-            --output "./public" \
-            --url "https://whimsyscoundrel.neocities.org" \
-            --name "Whimsy Scoundrel" \
-            --theme "cyberdream"
-
+          ./kiln generate
+ 
       - name: Deploy to Neocities
         uses: bcomnes/deploy-to-neocities@v1
         with:
