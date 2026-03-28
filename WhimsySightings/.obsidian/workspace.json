@@ -53,13 +53,14 @@
             "id": "9b3dd18458b54d21",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Test Base.base",
-                "viewName": "Pretty"
+                "file": "Art/Mar25 2026 20-35 - WS Zu.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Test Base"
+              "icon": "lucide-file",
+              "title": "Mar25 2026 20-35 - WS Zu"
             }
           }
         ],
@@ -257,9 +258,9 @@
   },
   "active": "9b3dd18458b54d21",
   "lastOpenFiles": [
-    "kiln.yaml",
-    "Art/Mar25 2026 20-35 - WS Zu.md",
     "Test Base.base",
+    "Art/Mar25 2026 20-35 - WS Zu.md",
+    "kiln.yaml",
     "attachments/WS_HoneyZu.png",
     "Art/zu yaaas betch.md",
     "test.md",
@@ -292,7 +293,6 @@
     "sightings/_excluded",
     "sightings/ThemeCrap/style.css",
     "sightings/ThemeCrap/shared.css",
-    "sightings/ThemeCrap/app.js",
     "vault/test.md",
     "vault/Test Canvas.canvas",
     "vault/index.md",
