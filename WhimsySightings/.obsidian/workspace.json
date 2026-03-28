@@ -53,14 +53,13 @@
             "id": "9b3dd18458b54d21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Art/Mar25 2026 20-35 - WS Zu.md",
-                "mode": "source",
-                "source": false
+                "file": "Test Base.base",
+                "viewName": "Pretty"
               },
-              "icon": "lucide-file",
-              "title": "Mar25 2026 20-35 - WS Zu"
+              "icon": "lucide-layout-grid",
+              "title": "Test Base"
             }
           }
         ],
@@ -258,8 +257,8 @@
   },
   "active": "9b3dd18458b54d21",
   "lastOpenFiles": [
-    "Test Base.base",
     "Art/Mar25 2026 20-35 - WS Zu.md",
+    "Test Base.base",
     "kiln.yaml",
     "attachments/WS_HoneyZu.png",
     "Art/zu yaaas betch.md",
